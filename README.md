@@ -1,4 +1,4 @@
-### EX NO: 01
+### EX No: 01
 ### DATE:
 # <p align="center"> RANDOM CLASSIFICATION<p/>
 ## AIM:
